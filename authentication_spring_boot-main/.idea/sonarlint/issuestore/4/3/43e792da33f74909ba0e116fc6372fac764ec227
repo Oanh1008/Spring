@@ -1,0 +1,6 @@
+
+`
+java:S1301^"KReplace this "switch" statement by "if" statements to increase readability.(¶„æ
+Y
+java:S1155\">Use isEmpty() to check whether the collection is empty or not.(õ³ÄÆùÿÿÿÿ
+6	java:S131^""Add a default case to this switch.(¶„æ
